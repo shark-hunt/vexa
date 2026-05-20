@@ -351,4 +351,3 @@ Required RAM (GB) = (Target Bots × 0.6) × 1.5  (50% headroom)
 ---
 
 **Report Generated:** Based on load test reports from December 2, 2025 (make all TARGET=remote) and December 18, 2025 (Lite)
-
