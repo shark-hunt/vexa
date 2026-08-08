@@ -21,4 +21,3 @@ docker-compose up -d
 ```
 
 Service runs on `http://localhost:8083/v1/audio/transcriptions`
-
