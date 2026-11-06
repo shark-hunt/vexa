@@ -133,4 +133,3 @@ Default thresholds (can be adjusted in `run_quality.py`):
 - Noisy (SNR 10dB): WER ≤ 0.35 (35%)
 - Noisy (SNR 5dB): WER ≤ 0.45 (45%)
 - Silence: Must produce empty transcript
-
